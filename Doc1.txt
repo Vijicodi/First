@@ -2,6 +2,7 @@ Vijicodi file
 ===============
 First line of the code
 Second line from Vijicodi2
+Third line from Vijicodi3
 
 New list
 ========
